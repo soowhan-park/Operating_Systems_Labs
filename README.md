@@ -34,5 +34,3 @@ Algorithms used:
 * Elevator
 * CLOOK
 * FLOOK
-
-
